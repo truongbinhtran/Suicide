@@ -1,7 +1,8 @@
 body, html {
     height: 100%;
+
 }
-body {
+.headline {
     color: #1b1e21;
 }
 a {
@@ -10,8 +11,8 @@ a {
 
 .bg {
     /* The image used */
-    background-image: url("img/walerya016.jpg");
-
+    background-image: url("http://bertucco.ddns.net/image/lydiajasmine/lydiajasmine015.jpg");
+    margin-top: 50px;
     /* Full height */
     height: 100%;
     /* Center and scale the image nicely */
