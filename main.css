@@ -12,7 +12,7 @@ a {
 .bg {
     /* The image used */
     background-image: url("http://bertucco.ddns.net/image/lydiajasmine/lydiajasmine015.jpg");
-    margin-top: 50px;
+    margin-top: 0px;
     /* Full height */
     height: 100%;
     /* Center and scale the image nicely */
@@ -31,4 +31,11 @@ section {
     margin-top: 100px;
     margin-bottom: 80px;
     display: block;
+}
+.row {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.spazio {
+    margin-bottom: 30px;
 }
