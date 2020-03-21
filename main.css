@@ -3,10 +3,19 @@ body, html {
 
 }
 .headline {
-    color: #1b1e21;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 120px;
+    letter-spacing: 2px;
+    color: #d3ab55;
+}
+.headline-paragraph {
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 1px;
+    color: #ccc;
 }
 a {
-    color: #1b1e21;
+    color: #ccc;
 }
 
 .bg {
