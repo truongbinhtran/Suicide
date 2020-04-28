@@ -27,4 +27,6 @@ Add-Content -Path "H:\inetpub\Suicide\models\$modella.html" -Value '<!--Javascri
 Set-Location "H:\inetpub\Suicide\ps1\"
 .\alt $modella
 Sleep 3
+.\RemoveSuicideLine
+Sleep 3
 .\suicide
