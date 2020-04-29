@@ -27,6 +27,4 @@ Add-Content -Path "E:\suicide_girl\Suicide\$modella.html" -Value '</body>', '</h
 Set-Location "E:\suicide_girl\"
 .\alt $modella
 Sleep 3
-.\RemoveSuicideLine
-Sleep 3
 .\suicide
